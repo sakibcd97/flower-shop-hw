@@ -13,6 +13,9 @@
     display: flex;
     margin-bottom: 0px;
 }
+.banner-p{
+    margin-top: 20px;
+}
 .btn-primary{
     background-color: brown;
     border: 0;
